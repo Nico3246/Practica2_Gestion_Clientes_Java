@@ -101,20 +101,3 @@ Las clases pertenecen al paquete:
 LibClases
 ```
 
-## Ejecución
-
-El repositorio contiene principalmente las clases de dominio de la práctica. Para utilizarlas es necesario integrarlas en un proyecto Java que respete el paquete `LibClases` y disponga de una clase `main` o de pruebas que invoque sus operaciones.
-
-Ejemplo de compilación, suponiendo que los archivos estén colocados en la estructura correcta del paquete:
-
-```bash
-javac LibClases/*.java
-```
-
-## Estado del proyecto
-
-Es una práctica académica centrada en el aprendizaje de POO. Algunas decisiones están orientadas al ejercicio didáctico y no a una arquitectura de producción.
-
-## Autor
-
-Repositorio mantenido por [Nico3246](https://github.com/Nico3246).
